@@ -142,18 +142,19 @@ sections:
         author: ""
         category: ""
         tag: ""
+        publication_type: ""
+        featured_only: false
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       # Choose a layout view
       view: card
-      columns: '2'
   - block: portfolio
     id: projects
     content:
