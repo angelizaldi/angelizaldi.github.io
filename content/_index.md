@@ -85,6 +85,19 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Python
+          description: Python for data wrangling, data visualization, data analysis, machine learning, deep learning and web scraping.
+          icon: python
+          icon_pack: fab
+        - name: R
+          description: Basic knowledge of the basic library and the tidyverse packages.
+          icon: r-project
+          icon_pack: fab
+        - name: SQL
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
