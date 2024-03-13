@@ -90,7 +90,6 @@ sections:
               * Creation of forms for the automation of records using VBA excel.
               * ETL in Power Query.
               * Building and automating dashboards with Power BI.
-              * 
         - title: Mathematics professor
           company: Freelancer
           # company_url: 'https://www.mavi.mx/'
