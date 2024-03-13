@@ -63,18 +63,47 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Excelista
-          company: Mavi de Occidente
+          company: Mavi de Occidente SA de CV
           company_url: 'https://www.mavi.mx/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Guadalajara
           date_start: '2023-04-17'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Development of macros in VBA Excel to automate report generation processes and procedures, significantly reducing the time required to complete specific tasks.
+              * Creation of reports using Power Pivot and data analysis using Power Query to obtain detailed information.
+              * Continuous improvement of procedures through macro implementation, optimizing operational efficiency.
+              * Various administrative tasks.
+        - title: Data Analyst
+          company: Freelancer
+          # company_url: 'https://www.mavi.mx/'
+          # company_logo: org-gc
+          location: Guadalajara
+          date_start: '2021-12-01'
+          date_end: '2023-04-17'
+          description: |2-
+              Responsibilities include:
+
+              * Design and implementation of dimensional data models.
+              * Creation of forms for the automation of records using VBA excel.
+              * ETL in Power Query.
+              * Building and automating dashboards with Power BI.
+              * 
+        - title: Mathematics professor
+          company: Freelancer
+          # company_url: 'https://www.mavi.mx/'
+          # company_logo: org-gc
+          location: Guadalajara
+          date_start: '2020-06-20'
+          date_end: '2023-04-17'
+          description: |2-
+              Responsibilities include:
+
+              * Classes and advice in subjects of mathematics, statistics, excel, and VBA.
+              * Creation of didactic classes adapted to the academic levels of the students.
+              * Creation of digital support material for students.
     design:
       columns: '2'
   - block: features
