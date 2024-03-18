@@ -1,12 +1,12 @@
 ---
-title: Power BI Dashboards
-summary: A Collection of Power BI dashboards.
+title: Nebok-Py
+summary: A Python reference site with examples in Spanish.
 tags:
-  - Power BI
-date: "2024-03-01T00:00:00Z"
+  - Python
+date: "2024-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/angelizaldi/Power-BI-Dashboards
+external_link: https://angelizaldi.github.io/nebok-py/
 
 image:
   caption: Nebok
