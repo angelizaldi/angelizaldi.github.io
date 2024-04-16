@@ -6,7 +6,7 @@ tags:
 date: "2024-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/angelizaldi/Power-BI-Dashboards
+external_link: https://angelizaldi.github.io/Power-BI-Dashboards/
 
 image:
   caption: Nebok
